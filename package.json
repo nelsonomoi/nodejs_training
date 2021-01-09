@@ -1,4 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "nelson omoi"
+	"author": "nelson omoi",
+	"description": "Basics of Nodejs Tutorial playground"
 }
