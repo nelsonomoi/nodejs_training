@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "nelson omoi",
-	"description": "Basics of Nodejs Tutorial playground"
+	"description": "Basics of Nodejs Tutorial playground",
+	"keywords" : ["freecodecamp","nodejs","training practice"]
 }
